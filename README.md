@@ -38,6 +38,10 @@ Landing Page
 Notes Page
 ![]()
 
+## Deployed
+
+https://rogers-notes.herokuapp.com/
+
 ## License
 
 None
