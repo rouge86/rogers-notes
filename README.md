@@ -33,7 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Screenshots
 
 Landing Page
-![]()
+![alt text]()
 
 Notes Page
 ![]()
@@ -48,5 +48,5 @@ None
 
 ## Contact
 
-- [GitHub](https://github.com/rouge86 "GitHub")
+- [GitHub](https://github.com/rouge86/rogers-notes "GitHub")
 - [Email](mailto:rogervlta@gmail.com "Email")
